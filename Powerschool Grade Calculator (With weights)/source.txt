@@ -1,0 +1,5 @@
+CREDITS:
+PowerSchool Category Calculations
+Modified and fixed some bugs by me
+Original creator: AndreRuegg
+https://chrome.google.com/webstore/detail/powerschool-category-calc/opmbgaoigdmhagbmjkckafnlidddkfdn?hl=en#:~:text=PowerSchool%20Category%20Calculations%20will%20give,you%20can%20put%20in%20yourself.
